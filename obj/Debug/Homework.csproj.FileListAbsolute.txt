@@ -1,0 +1,6 @@
+/Users/MastaNicky/Projects/Lecture8/Homework/bin/Debug/Homework.exe
+/Users/MastaNicky/Projects/Lecture8/Homework/bin/Debug/Homework.pdb
+/Users/MastaNicky/Projects/Lecture8/Homework/obj/Debug/Homework.csprojAssemblyReference.cache
+/Users/MastaNicky/Projects/Lecture8/Homework/obj/Debug/Homework.csproj.CoreCompileInputs.cache
+/Users/MastaNicky/Projects/Lecture8/Homework/obj/Debug/Homework.exe
+/Users/MastaNicky/Projects/Lecture8/Homework/obj/Debug/Homework.pdb

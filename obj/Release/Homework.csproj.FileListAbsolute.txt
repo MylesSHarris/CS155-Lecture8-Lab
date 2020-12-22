@@ -1,0 +1,3 @@
+/Users/MastaNicky/Projects/Lecture8/Homework/bin/Release/Homework.exe
+/Users/MastaNicky/Projects/Lecture8/Homework/obj/Release/Homework.csproj.CoreCompileInputs.cache
+/Users/MastaNicky/Projects/Lecture8/Homework/obj/Release/Homework.exe
